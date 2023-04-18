@@ -1,0 +1,14 @@
+.tooltip-container {
+  max-width: 160px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.tooltip-container > * {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.tooltip-container > a {
+  color: rgb(53, 146, 74);
+}

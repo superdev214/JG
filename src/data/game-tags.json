@@ -1,0 +1,67 @@
+{
+  "types": ["Character", "Item", "Land"],
+  "classes": [
+    "Aquatic",
+    "Beast",
+    "Bird",
+    "Bug",
+    "Dawn",
+    "Dusk",
+    "Mech",
+    "Plant",
+    "Reptile"
+  ],
+  "bigTimeCategories": [
+    "Space",
+    "Titles",
+    "VIP Passes",
+    "Weapons",
+    "Armor",
+    "Mystery Boxes"
+  ],
+  "bigTimeRarity": [
+    { "title": "Uncommon", "color": "#1cbf6a" },
+    { "title": "Rare", "color": "#159cfd" },
+    { "title": "Epic", "color": "#a369ff" },
+    { "title": "Legendary", "color": "#e67e22" }
+  ],
+  "otherdeedCategory": [
+    "Decay",
+    "Harsh",
+    "Spirit",
+    "Volcanic",
+    "Mineral",
+    "Growth",
+    "Psychedelic",
+    "Chaos"
+  ],
+  "otherdeedEnvironment": [
+    "Bog",
+    "Glacia",
+    "Steppes",
+    "Molten",
+    "Thornwood",
+    "Splinter",
+    "Biolume",
+    "Sands"
+  ],
+  "stages": ["egg", "adult"],
+  "rarities": [
+    {
+      "name": "common",
+      "color": "#b4bccb"
+    },
+    {
+      "name": "rare",
+      "color": "#12ebc6"
+    },
+    {
+      "name": "epic",
+      "color": "#e38800"
+    },
+    {
+      "name": "mystic",
+      "color": "#af4aed"
+    }
+  ]
+}

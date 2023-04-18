@@ -1,0 +1,74 @@
+[
+  {
+    "key": "axie-infinity",
+    "prefix": "Axie",
+    "prefix_plural": "Axies",
+    "comment": "The potential array format: [aquatic, beast, bird, bug, dawn, dusk, mech, plant, reptile]",
+    "list": [
+      {
+        "id": "2076032",
+        "class": "beast",
+        "breedCount": "0/7",
+        "potential": [1, 2, 1, 1, 0, 0, 0, 1, 1],
+        "parts": {
+          "eye": { "color": 4, "title": "Confused", "level": 1 },
+          "ear": { "color": 2, "title": "Zen", "level": 1 },
+          "leg": { "color": 5, "title": "Hermit", "level": 1 },
+          "teeth": { "color": 1, "title": "Hungry Bird", "level": 1 },
+          "horn": { "color": 6, "title": "Cerastes", "level": 1 },
+          "tail": { "color": 3, "title": "Ant", "level": 1 }
+        },
+        "prices": [{ "type": "1 month", "price": 200 }],
+        "picture": "/images/games/2076032.png"
+      },
+      {
+        "id": "9753024",
+        "class": "plant",
+        "breedCount": "0/7",
+        "potential": [1, 1, 1, 1, 0, 0, 0, 2, 1],
+        "parts": {
+          "eye": { "color": 1, "title": "Lucas", "level": 1 },
+          "ear": { "color": 2, "title": "Nut Cracker", "level": 1 },
+          "leg": { "color": 4, "title": "Shiitake", "level": 1 },
+          "teeth": { "color": 6, "title": "Tiny Turtle", "level": 1 },
+          "horn": { "color": 3, "title": "Leaf Bug", "level": 1 },
+          "tail": { "color": 4, "title": "Nimo", "level": 1 }
+        },
+        "prices": [{ "type": "1 month", "price": 200 }],
+        "picture": "/images/games/9753024.png"
+      },
+      {
+        "id": "3961814",
+        "class": "beast",
+        "breedCount": "0/7",
+        "potential": [2, 1, 1, 1, 0, 0, 0, 1, 1],
+        "parts": {
+          "eye": { "color": 4, "title": "Confused", "level": 1 },
+          "ear": { "color": 2, "title": "Zen", "level": 1 },
+          "leg": { "color": 5, "title": "Hermit", "level": 1 },
+          "teeth": { "color": 1, "title": "Hungry Bird", "level": 1 },
+          "horn": { "color": 6, "title": "Cerastes", "level": 1 },
+          "tail": { "color": 3, "title": "Ant", "level": 1 }
+        },
+        "prices": [{ "type": "1 month", "price": 200 }],
+        "picture": "/images/games/3961814.png"
+      },
+      {
+        "id": "9458",
+        "class": "aquatic",
+        "breedCount": "0/7",
+        "potential": [1, 2, 1, 1, 0, 0, 0, 1, 1],
+        "parts": {
+          "eye": { "color": 4, "title": "Confused", "level": 1 },
+          "ear": { "color": 2, "title": "Zen", "level": 1 },
+          "leg": { "color": 5, "title": "Hermit", "level": 1 },
+          "teeth": { "color": 1, "title": "Hungry Bird", "level": 1 },
+          "horn": { "color": 6, "title": "Cerastes", "level": 1 },
+          "tail": { "color": 3, "title": "Ant", "level": 1 }
+        },
+        "prices": [{ "type": "1 month", "price": 200 }],
+        "picture": "/images/games/9458.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "key": "axie-infinity",
+    "image": "/images/categories/aurory-1.webp",
+    "title": "Axie Infinity",
+    "ready": true
+  },
+  {
+    "key": "aurory",
+    "image": "/images/categories/axies.webp",
+    "title": "Aurory",
+    "ready": false
+  },
+  {
+    "key": "big-time",
+    "image": "/images/categories/bigtimes-1.webp",
+    "title": "Big Time",
+    "ready": false
+  },
+  {
+    "key": "crabada",
+    "image": "/images/categories/crabada-1.webp",
+    "title": "Crabada",
+    "ready": false
+  },
+  {
+    "key": "creepz",
+    "image": "/images/categories/creepz-1.webp",
+    "title": "Creepz",
+    "ready": false
+  },
+  {
+    "key": "decentraland",
+    "image": "/images/categories/decentraland-1.webp",
+    "title": "Decentraland",
+    "ready": false
+  },
+  {
+    "key": "defi-kingdoms",
+    "image": "/images/categories/defikingdoms-1.webp",
+    "title": "Defi Kingdoms",
+    "ready": false
+  },
+  {
+    "key": "guild-of-Guardians",
+    "image": "/images/categories/guildoguardians-2.webp",
+    "title": "Guild of Guardians",
+    "ready": false
+  },
+  {
+    "key": "illuvium",
+    "image": "/images/categories/illuvium-1.webp",
+    "title": "Illuvium",
+    "ready": false
+  },
+  {
+    "key": "star-atlas",
+    "image": "/images/categories/staratlas-1.webp",
+    "title": "Star Atlas",
+    "ready": false
+  },
+  {
+    "key": "thetan-arena",
+    "image": "/images/categories/thetanarena-1.webp",
+    "title": "Thetan Arena",
+    "ready": false
+  },
+  {
+    "key": "wolf-game",
+    "image": "/images/categories/wolf_game-1.webp",
+    "title": "Wolf Game",
+    "ready": false
+  }
+]

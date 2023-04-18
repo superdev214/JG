@@ -1,0 +1,33 @@
+.text-white .terms-and-conditions-content {
+  text-align: left;
+  height: 100%;
+  overflow: auto;
+  padding: 40px 20px;
+  h2 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff !important;
+  }
+  .main-content {
+    padding-left: 20px;
+    p {
+      padding-left: 26px;
+      text-indent: -26px;
+      color: #e1e1e1 !important;
+    }
+  }
+  h3 {
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    color: #fff !important;
+  }
+  p {
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #e1e1e1 !important;
+  }
+}

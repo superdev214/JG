@@ -1,0 +1,99 @@
+{
+  "name": "joystick-rent",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ethersproject/contracts": "^5.6.0",
+    "@ethersproject/providers": "^5.6.4",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.13",
+    "axios": "^0.27.2",
+    "classnames": "^2.3.1",
+    "ethers": "^5.6.4",
+    "husky": "^8.0.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.3",
+    "qrcode": "^1.5.0",
+    "qs": "^6.10.5",
+    "react": "^17.0.2",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "^17.0.2",
+    "react-popper-tooltip": "^4.4.1",
+    "react-responsive": "^9.0.0-beta.6",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.8.4",
+    "react-scroll-parallax": "^3.0.3",
+    "react-splitter-layout": "^4.0.0",
+    "react-toastify": "8.2.0",
+    "sass": "^1.49.0",
+    "speakeasy": "^2.0.0",
+    "styled-components": "5.2.1",
+    "tailwindcss": "^3.0.18",
+    "twin.macro": "2.8.1",
+    "typescript": "^4.5.5",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "set PORT=8080 && react-scripts start",
+    "start-macos": "export PORT=8000 react-scripts start",
+    "build": "react-scripts build",
+    "prettier:write": "prettier --write --ignore-path .gitignore \"src/**/*.{ts,tsx}\"",
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.0",
+    "@babel/plugin-transform-react-jsx": "^7.16.7",
+    "@commitlint/cli": "^16.1.0",
+    "@commitlint/config-conventional": "^16.0.0",
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^16.11.22",
+    "@types/qrcode": "^1.4.2",
+    "@types/qs": "^6.9.7",
+    "@types/react": "^17.0.39",
+    "@types/react-dom": "^17.0.11",
+    "@types/react-scroll": "^1.8.3",
+    "@types/react-splitter-layout": "^3.0.2",
+    "@types/styled-components": "^5.1.22",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "eslint-plugin-sort-destructure-keys": "^1.4.0",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "lint-staged": "^12.3.3",
+    "postcss": "^8.4.6",
+    "prettier": "^2.5.1"
+  },
+  "resolutions": {
+    "//": "See https://github.com/facebook/create-react-app/issues/11773",
+    "react-error-overlay": "6.0.9"
+  },
+  "babelMacros": {
+    "twin": {
+      "preset": "styled-components"
+    }
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  }
+}
